@@ -26,5 +26,8 @@ it helps us to keep track of every commit history with in each branch.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+the result is we will have one merged branch with the commit history from both branches. and we represent the branches 
+in the diagram for better visualization of each branches.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
